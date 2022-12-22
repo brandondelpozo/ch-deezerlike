@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=deezerlike
+POSTGRES_USER=UNZxVQsCxKIBeQUYbLhbmqcrdMzvIhMd
+POSTGRES_PASSWORD=n7EikRlhxoTlOSvTPwfQBSAYs0aC1zfu3fqfbfsUzVh82GLZBZVBu13s91P1goNc
